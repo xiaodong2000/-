@@ -1,7 +1,6 @@
 import turtle as t
 
 #参数设置
-t.setup(600,400,0,0)
 t.bgcolor("red")
 t.fillcolor("yellow")
 t.color('yellow')
