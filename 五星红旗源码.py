@@ -1,5 +1,7 @@
 import turtle as t
 
+#这是以左四分之一为绘图主体，需要将窗口全屏
+
 #参数设置
 t.bgcolor("red")
 t.fillcolor("yellow")
